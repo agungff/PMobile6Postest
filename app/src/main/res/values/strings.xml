@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PMobile 6 Postest</string>
+    <string name="sms">SMS</string>
+    <string name="telpon">Telpon</string>
+    <string name="implicit">Implicit</string>
+    <string name="explicit">Explicit</string>
+</resources>

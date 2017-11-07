@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/implicit">
+        <menu>
+            <item android:id="@+id/mnTelpon"
+                android:title="@string/telpon"/>
+            <item android:id="@+id/mnSms"
+                android:title="@string/sms"/>
+        </menu>
+    </item>
+    <item android:id="@+id/mnExplicit"
+        android:title="@string/explicit"/>
+</menu>
